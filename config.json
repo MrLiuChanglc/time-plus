@@ -1,0 +1,23 @@
+{
+  "app_id": "wx12c7504909ede14d",
+  "app_secret": "0afde4478ae70c45e865b07cd4d4f447",
+  "template_id": "hwYVcKUQX4Y-FfFA1gWCmMWNHO57LeqZws8lQKVbcAA",
+  "user": [
+    "o3_TW6M1bkzYiWsgZrqXpjcVJLE8",
+    "o3_TW6G5_kSN1xxwlo_LldiHI2qE"
+  ],
+  "province": "\u5c71\u4e1c",
+  "city": "\u6d4e\u5357",
+  "birthday1": "r2000-06-26",
+  "birthday2": "r1999-10-06",
+  "birthday3": "1997-01-03",
+  "love_date": "2018-06-08",
+  "Whether_Eng": "True",
+  "Whether_caihongpi": false,
+  "Whether_lizhi": false,
+  "Whether_tip": false,
+  "Whether_health": false,
+  "Whether_lucky": false,
+  "tianxing_API": "11b4c8682ee30d7488fcecf037372c5e",
+  "astro": "\u5de8\u87f9\u5ea7"
+}
